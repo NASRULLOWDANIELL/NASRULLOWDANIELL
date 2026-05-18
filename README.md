@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋 I'm Nas Daniell
 
-<!--
-**NASRULLOWDANIELL/NASRULLOWDANIELL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Year 3 Information System Engineering student at UiTM Jasin
 
-Here are some ideas to get you started:
+🚀 Full-stack developer building modern web applications using React, Java & Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Java
+- Spring Boot
+- Maven
+
+### Database & Tools
+- MySQL
+- Docker
+- Git
+- GitHub
+- Railway
+- Vercel
+- Heroku
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 RakanSewa
+Rental & housemate matching platform built with React and Spring Boot.
+
+**Tech Used:**
+React • Java • Spring Boot • Docker • Railway • Vercel
+
+### 🐱 CatHotel Self Service System
+Hotel self-service management system for cat boarding operations.
+
+**Tech Used:**
+HTML • CSS • JavaScript • Java • Spring Boot • Maven • Heroku
+
+---
+
+## 🌱 Currently Learning
+- Modern AI-assisted development workflows
+- Deployment systems
+- Better full-stack architecture
+
+---
+
+## ⚡ Interests
+- Full-stack development
+- Startup-style projects
+- Modern deployment workflows
+- Real-world web applications
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: Coming soon
+
+## 📊 GitHub Stats
+
+![Nas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NASRULLOWDANIELL&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASRULLOWDANIELL&layout=compact)
